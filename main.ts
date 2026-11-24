@@ -17,7 +17,7 @@ import { join } from "node:path";
 // couch and charges a monthly subscription to report the obvious. One
 // sentence, founder-serious, no second idea crowding it.
 const PITCH =
-  "Meet Damp, an app that takes a photo of your houseplant every twenty minutes and texts you 'still alive, probably,' for $9.99 a month, because peace of mind should never be free.";
+  "Meet Damp, the app that photographs your houseplant every 20 minutes and texts you 'still alive, probably' for $9.99 a month, and for premium users, a Sunday graph of it doing absolutely nothing.";
 
 function main(): void {
   // Gate: /output/entry.txt must be UTF-8 text of 1 to 240 characters,
